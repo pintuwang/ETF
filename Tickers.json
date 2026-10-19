@@ -1,0 +1,11 @@
+{
+  "start_date": "2015-12-31",
+  "us_dividend_wht": 0.15,
+  "fx": { "symbol": "SGD=X", "description": "SGD per 1 USD" },
+  "funds": [
+    { "sgx": "XUS", "name": "Xtrackers S&P 500 UCITS ETF",               "index": "S&P 500",              "proxy": "SPY",  "proxy_ter": 0.000945, "xt_ter": 0.0003, "us_weight": 1.00, "sgx_yahoo": "XUS.SI", "active": true },
+    { "sgx": "EUS", "name": "Xtrackers S&P 500 Equal Weight UCITS ETF",  "index": "S&P 500 Equal Weight", "proxy": "RSP",  "proxy_ter": 0.0020,   "xt_ter": 0.0015, "us_weight": 1.00, "sgx_yahoo": "EUS.SI", "active": true },
+    { "sgx": "XND", "name": "Xtrackers Nasdaq 100 UCITS ETF",            "index": "Nasdaq-100",           "proxy": "QQQ",  "proxy_ter": 0.0020,   "xt_ter": 0.0020, "us_weight": 1.00, "sgx_yahoo": "XND.SI", "active": true },
+    { "sgx": "XWR", "name": "Xtrackers MSCI World UCITS ETF",            "index": "MSCI World",           "proxy": "URTH", "proxy_ter": 0.0024,   "xt_ter": 0.0012, "us_weight": 0.70, "sgx_yahoo": "XWR.SI", "active": true }
+  ]
+}
