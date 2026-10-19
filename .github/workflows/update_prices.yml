@@ -2,7 +2,7 @@ name: Update SGX Xtrackers backfill
 
 on:
   schedule:
-    # 22:30 UTC Mon-Fri = 06:30 SGT Tue-Sat, after the US close (incl. daylight-saving shifts)
+    # 22:30 UTC Mon-Fri = 06:30 SGT Tue-Sat, after the US close
     - cron: "30 22 * * 1-5"
   workflow_dispatch:
     inputs:
@@ -28,10 +28,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: pip
+
+      - name: Check required files are in the repo
+        run: |
+          ls -la
+          for f in fetch_prices.py tickers.json; do
+            [ -f "$f" ] || { echo "MISSING at repo root: $f"; exit 1; }
+          done
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install "yfinance>=0.2.54" "pandas>=2.0"
 
       - name: Fetch prices and rebuild backfill
         id: fetch
@@ -43,10 +49,11 @@ jobs:
             python fetch_prices.py
           fi
 
-      - name: Commit data (even after a partial failure, so status.json records it)
+      - name: Commit data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p data
           git add data/
           if git diff --cached --quiet; then
             echo "No changes"
