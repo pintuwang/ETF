@@ -1,61 +1,63 @@
 {
-  "run_utc": "2026-10-19T03:35:41+00:00",
+  "run_utc": "2026-10-20T01:08:00+00:00",
   "symbols": {
     "SGD=X": {
       "ok": true,
-      "mode": "full",
+      "mode": "incremental (+0 rows)",
       "last_date": "2026-10-19",
       "rows": 2810
     },
     "SPY": {
       "ok": true,
-      "mode": "full",
+      "mode": "incremental (+0 rows)",
       "last_date": "2026-10-16",
       "rows": 2714
     },
     "RSP": {
       "ok": true,
-      "mode": "full",
+      "mode": "incremental (+0 rows)",
       "last_date": "2026-10-16",
       "rows": 2714
     },
     "QQQ": {
       "ok": true,
-      "mode": "full",
+      "mode": "incremental (+0 rows)",
       "last_date": "2026-10-16",
       "rows": 2714
     },
     "URTH": {
       "ok": true,
-      "mode": "full",
+      "mode": "incremental (+0 rows)",
       "last_date": "2026-10-16",
       "rows": 2714
     },
     "XUS.SI": {
       "ok": true,
-      "mode": "full",
+      "mode": "incremental (+2 rows)",
       "last_date": "2026-10-19",
-      "rows": 3
+      "rows": 5
     },
     "EUS.SI": {
       "ok": true,
-      "mode": "full",
+      "mode": "incremental (+1 rows)",
       "last_date": "2026-10-19",
-      "rows": 3
+      "rows": 4
     },
     "XND.SI": {
       "ok": true,
-      "mode": "full",
+      "mode": "incremental (+1 rows)",
       "last_date": "2026-10-19",
-      "rows": 3
+      "rows": 4
     },
     "XWR.SI": {
       "ok": true,
-      "mode": "full",
+      "mode": "incremental (+1 rows)",
       "last_date": "2026-10-19",
-      "rows": 3
+      "rows": 4
     }
   },
-  "warnings": [],
+  "warnings": [
+    "XUS.SI: 29.7% move on 2026-10-13 (check, not removed)"
+  ],
   "missing_required": []
 }
