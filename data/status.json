@@ -1,63 +1,66 @@
 {
-  "run_utc": "2026-10-22T00:46:15+00:00",
+  "run_utc": "2026-10-23T00:46:13+00:00",
   "symbols": {
     "SGD=X": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-22",
-      "rows": 2813
+      "last_date": "2026-10-23",
+      "rows": 2814
     },
     "SPY": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-20",
-      "rows": 2716
+      "last_date": "2026-10-21",
+      "rows": 2717
     },
     "RSP": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-20",
-      "rows": 2716
+      "last_date": "2026-10-21",
+      "rows": 2717
     },
     "QQQ": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-20",
-      "rows": 2716
+      "last_date": "2026-10-21",
+      "rows": 2717
     },
     "URTH": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-20",
-      "rows": 2716
+      "last_date": "2026-10-21",
+      "rows": 2717
     },
     "XUS.SI": {
       "ok": true,
-      "mode": "incremental (+0 rows)",
-      "last_date": "2026-10-19",
-      "rows": 6
+      "mode": "incremental (+2 rows)",
+      "last_date": "2026-10-21",
+      "rows": 8
     },
     "EUS.SI": {
       "ok": true,
-      "mode": "incremental (+0 rows)",
-      "last_date": "2026-10-19",
-      "rows": 5
+      "mode": "incremental (+3 rows)",
+      "last_date": "2026-10-21",
+      "rows": 8
     },
     "XND.SI": {
       "ok": true,
-      "mode": "incremental (+0 rows)",
-      "last_date": "2026-10-19",
-      "rows": 5
+      "mode": "incremental (+3 rows)",
+      "last_date": "2026-10-21",
+      "rows": 8
     },
     "XWR.SI": {
       "ok": true,
-      "mode": "incremental (+0 rows)",
-      "last_date": "2026-10-19",
-      "rows": 5
+      "mode": "incremental (+3 rows)",
+      "last_date": "2026-10-21",
+      "rows": 8
     }
   },
   "warnings": [
-    "XUS.SI: 29.7% move on 2026-10-13 (check, not removed)"
+    "XUS.SI: 29.7% move on 2026-10-13 (check, not removed)",
+    "EUS.SI: 29.5% move on 2026-10-13 (check, not removed)",
+    "XND.SI: 27.9% move on 2026-10-13 (check, not removed)",
+    "XWR.SI: 29.5% move on 2026-10-13 (check, not removed)"
   ],
   "missing_required": []
 }
