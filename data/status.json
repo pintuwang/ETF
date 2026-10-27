@@ -1,59 +1,59 @@
 {
-  "run_utc": "2026-10-24T00:52:17+00:00",
+  "run_utc": "2026-10-27T01:32:49+00:00",
   "symbols": {
     "SGD=X": {
       "ok": true,
-      "mode": "incremental (+0 rows)",
-      "last_date": "2026-10-23",
-      "rows": 2814
+      "mode": "incremental (+2 rows)",
+      "last_date": "2026-10-27",
+      "rows": 2816
     },
     "SPY": {
       "ok": true,
-      "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-22",
-      "rows": 2718
+      "mode": "incremental (+2 rows)",
+      "last_date": "2026-10-26",
+      "rows": 2720
     },
     "RSP": {
       "ok": true,
-      "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-22",
-      "rows": 2718
+      "mode": "incremental (+2 rows)",
+      "last_date": "2026-10-26",
+      "rows": 2720
     },
     "QQQ": {
       "ok": true,
-      "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-22",
-      "rows": 2718
+      "mode": "incremental (+2 rows)",
+      "last_date": "2026-10-26",
+      "rows": 2720
     },
     "URTH": {
       "ok": true,
-      "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-22",
-      "rows": 2718
+      "mode": "incremental (+2 rows)",
+      "last_date": "2026-10-26",
+      "rows": 2720
     },
     "XUS.SI": {
       "ok": true,
-      "mode": "incremental (+0 rows)",
-      "last_date": "2026-10-21",
-      "rows": 8
+      "mode": "incremental (+1 rows)",
+      "last_date": "2026-10-27",
+      "rows": 9
     },
     "EUS.SI": {
       "ok": true,
-      "mode": "incremental (+0 rows)",
-      "last_date": "2026-10-21",
-      "rows": 8
+      "mode": "incremental (+1 rows)",
+      "last_date": "2026-10-27",
+      "rows": 9
     },
     "XND.SI": {
       "ok": true,
-      "mode": "incremental (+0 rows)",
-      "last_date": "2026-10-21",
-      "rows": 8
+      "mode": "incremental (+1 rows)",
+      "last_date": "2026-10-27",
+      "rows": 9
     },
     "XWR.SI": {
       "ok": true,
-      "mode": "incremental (+0 rows)",
-      "last_date": "2026-10-21",
-      "rows": 8
+      "mode": "incremental (+1 rows)",
+      "last_date": "2026-10-27",
+      "rows": 9
     }
   },
   "warnings": [
