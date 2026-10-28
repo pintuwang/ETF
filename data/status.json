@@ -1,59 +1,59 @@
 {
-  "run_utc": "2026-10-27T01:32:49+00:00",
+  "run_utc": "2026-10-28T01:30:09+00:00",
   "symbols": {
     "SGD=X": {
       "ok": true,
-      "mode": "incremental (+2 rows)",
-      "last_date": "2026-10-27",
-      "rows": 2816
+      "mode": "incremental (+1 rows)",
+      "last_date": "2026-10-28",
+      "rows": 2817
     },
     "SPY": {
       "ok": true,
-      "mode": "incremental (+2 rows)",
+      "mode": "incremental (+0 rows)",
       "last_date": "2026-10-26",
       "rows": 2720
     },
     "RSP": {
       "ok": true,
-      "mode": "incremental (+2 rows)",
+      "mode": "incremental (+0 rows)",
       "last_date": "2026-10-26",
       "rows": 2720
     },
     "QQQ": {
       "ok": true,
-      "mode": "incremental (+2 rows)",
+      "mode": "incremental (+0 rows)",
       "last_date": "2026-10-26",
       "rows": 2720
     },
     "URTH": {
       "ok": true,
-      "mode": "incremental (+2 rows)",
+      "mode": "incremental (+0 rows)",
       "last_date": "2026-10-26",
       "rows": 2720
     },
     "XUS.SI": {
       "ok": true,
-      "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-27",
-      "rows": 9
+      "mode": "incremental (+4 rows)",
+      "last_date": "2026-10-28",
+      "rows": 13
     },
     "EUS.SI": {
       "ok": true,
-      "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-27",
-      "rows": 9
+      "mode": "incremental (+4 rows)",
+      "last_date": "2026-10-28",
+      "rows": 13
     },
     "XND.SI": {
       "ok": true,
-      "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-27",
-      "rows": 9
+      "mode": "incremental (+4 rows)",
+      "last_date": "2026-10-28",
+      "rows": 13
     },
     "XWR.SI": {
       "ok": true,
-      "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-27",
-      "rows": 9
+      "mode": "incremental (+4 rows)",
+      "last_date": "2026-10-28",
+      "rows": 13
     }
   },
   "warnings": [
