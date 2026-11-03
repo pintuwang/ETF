@@ -1,59 +1,59 @@
 {
-  "run_utc": "2026-10-31T01:42:24+00:00",
+  "run_utc": "2026-11-03T03:32:41+00:00",
   "symbols": {
     "SGD=X": {
       "ok": true,
-      "mode": "incremental (+0 rows)",
-      "last_date": "2026-10-30",
-      "rows": 2819
+      "mode": "incremental (+2 rows)",
+      "last_date": "2026-11-03",
+      "rows": 2821
     },
     "SPY": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-30",
-      "rows": 2724
+      "last_date": "2026-11-02",
+      "rows": 2725
     },
     "RSP": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-30",
-      "rows": 2724
+      "last_date": "2026-11-02",
+      "rows": 2725
     },
     "QQQ": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-30",
-      "rows": 2724
+      "last_date": "2026-11-02",
+      "rows": 2725
     },
     "URTH": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-10-30",
-      "rows": 2724
+      "last_date": "2026-11-02",
+      "rows": 2725
     },
     "XUS.SI": {
       "ok": true,
-      "mode": "incremental (+0 rows)",
-      "last_date": "2026-10-30",
-      "rows": 15
+      "mode": "incremental (+2 rows)",
+      "last_date": "2026-11-03",
+      "rows": 17
     },
     "EUS.SI": {
       "ok": true,
-      "mode": "incremental (+0 rows)",
-      "last_date": "2026-10-30",
-      "rows": 15
+      "mode": "incremental (+1 rows)",
+      "last_date": "2026-11-03",
+      "rows": 16
     },
     "XND.SI": {
       "ok": true,
-      "mode": "incremental (+0 rows)",
-      "last_date": "2026-10-30",
-      "rows": 15
+      "mode": "incremental (+1 rows)",
+      "last_date": "2026-11-03",
+      "rows": 16
     },
     "XWR.SI": {
       "ok": true,
-      "mode": "incremental (+0 rows)",
-      "last_date": "2026-10-30",
-      "rows": 15
+      "mode": "incremental (+1 rows)",
+      "last_date": "2026-11-03",
+      "rows": 16
     }
   },
   "warnings": [
