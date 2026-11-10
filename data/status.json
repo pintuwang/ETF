@@ -1,66 +1,64 @@
 {
-  "run_utc": "2026-11-07T02:06:06+00:00",
+  "run_utc": "2026-11-10T04:12:47+00:00",
   "symbols": {
     "SGD=X": {
       "ok": true,
-      "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-07",
-      "rows": 2825
+      "mode": "incremental (+2 rows)",
+      "last_date": "2026-11-10",
+      "rows": 2827
     },
     "SPY": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-06",
-      "rows": 2729
+      "last_date": "2026-11-09",
+      "rows": 2730
     },
     "RSP": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-06",
-      "rows": 2729
+      "last_date": "2026-11-09",
+      "rows": 2730
     },
     "QQQ": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-06",
-      "rows": 2729
+      "last_date": "2026-11-09",
+      "rows": 2730
     },
     "URTH": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-06",
-      "rows": 2729
+      "last_date": "2026-11-09",
+      "rows": 2730
     },
     "XUS.SI": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-06",
-      "rows": 20
+      "last_date": "2026-11-10",
+      "rows": 21
     },
     "EUS.SI": {
       "ok": true,
-      "mode": "full-refetch",
-      "last_date": "2026-11-05",
-      "rows": 19
+      "mode": "incremental (+2 rows)",
+      "last_date": "2026-11-10",
+      "rows": 21
     },
     "XND.SI": {
       "ok": true,
-      "mode": "full-refetch",
-      "last_date": "2026-11-05",
-      "rows": 19
+      "mode": "incremental (+2 rows)",
+      "last_date": "2026-11-10",
+      "rows": 21
     },
     "XWR.SI": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-06",
-      "rows": 20
+      "last_date": "2026-11-10",
+      "rows": 21
     }
   },
   "warnings": [
     "XUS.SI: 29.7% move on 2026-10-13 (check, not removed)",
-    "EUS.SI: overlap close mismatch 0.50% -> full refetch",
     "EUS.SI: 29.5% move on 2026-10-13 (check, not removed)",
-    "XND.SI: overlap close mismatch 1.88% -> full refetch",
     "XND.SI: 27.9% move on 2026-10-13 (check, not removed)",
     "XWR.SI: 29.5% move on 2026-10-13 (check, not removed)"
   ],
