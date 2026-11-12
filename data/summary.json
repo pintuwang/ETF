@@ -1,13 +1,13 @@
 {
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "start": "2015-12-31",
   "funds": {
     "XUS": {
       "name": "Xtrackers S&P 500 UCITS ETF",
       "proxy": "SPY",
-      "cagr_sgd": 0.13303,
-      "cagr_usd": 0.1436,
-      "vol_ann_sgd": 0.18349,
+      "cagr_sgd": 0.13458,
+      "cagr_usd": 0.14494,
+      "vol_ann_sgd": 0.18351,
       "max_drawdown_sgd": -0.30723,
       "max_drawdown_trough": "2020-03-23",
       "calendar_returns_sgd": {
@@ -21,15 +21,15 @@
         "2023": 0.23759,
         "2024": 0.28459,
         "2025": 0.11066,
-        "2026": 0.10326
+        "2026": 0.12021
       }
     },
     "EUS": {
       "name": "Xtrackers S&P 500 Equal Weight UCITS ETF",
       "proxy": "RSP",
-      "cagr_sgd": 0.10842,
-      "cagr_usd": 0.11876,
-      "vol_ann_sgd": 0.1864,
+      "cagr_sgd": 0.10943,
+      "cagr_usd": 0.11955,
+      "vol_ann_sgd": 0.18639,
       "max_drawdown_sgd": -0.36419,
       "max_drawdown_trough": "2020-03-23",
       "calendar_returns_sgd": {
@@ -43,15 +43,15 @@
         "2023": 0.11451,
         "2024": 0.15946,
         "2025": 0.04817,
-        "2026": 0.16059
+        "2026": 0.17241
       }
     },
     "XND": {
       "name": "Xtrackers Nasdaq 100 UCITS ETF",
       "proxy": "QQQ",
-      "cagr_sgd": 0.17599,
-      "cagr_usd": 0.18696,
-      "vol_ann_sgd": 0.22875,
+      "cagr_sgd": 0.17866,
+      "cagr_usd": 0.18942,
+      "vol_ann_sgd": 0.22883,
       "max_drawdown_sgd": -0.35615,
       "max_drawdown_trough": "2022-12-28",
       "calendar_returns_sgd": {
@@ -65,14 +65,14 @@
         "2023": 0.51962,
         "2024": 0.29218,
         "2025": 0.13984,
-        "2026": 0.09719
+        "2026": 0.125
       }
     },
     "XWR": {
       "name": "Xtrackers MSCI World UCITS ETF",
       "proxy": "URTH",
-      "cagr_sgd": 0.11238,
-      "cagr_usd": 0.12276,
+      "cagr_sgd": 0.11363,
+      "cagr_usd": 0.1238,
       "vol_ann_sgd": 0.17794,
       "max_drawdown_sgd": -0.30918,
       "max_drawdown_trough": "2020-03-23",
@@ -87,7 +87,7 @@
         "2023": 0.21696,
         "2024": 0.22169,
         "2025": 0.14576,
-        "2026": 0.10063
+        "2026": 0.11447
       }
     }
   }
