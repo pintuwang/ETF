@@ -1,64 +1,65 @@
 {
-  "run_utc": "2026-11-12T03:10:51+00:00",
+  "run_utc": "2026-11-13T02:43:38+00:00",
   "symbols": {
     "SGD=X": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-12",
-      "rows": 2829
+      "last_date": "2026-11-13",
+      "rows": 2830
     },
     "SPY": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-11",
-      "rows": 2732
+      "last_date": "2026-11-12",
+      "rows": 2733
     },
     "RSP": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-11",
-      "rows": 2732
+      "last_date": "2026-11-12",
+      "rows": 2733
     },
     "QQQ": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-11",
-      "rows": 2732
+      "last_date": "2026-11-12",
+      "rows": 2733
     },
     "URTH": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-11",
-      "rows": 2732
+      "last_date": "2026-11-12",
+      "rows": 2733
     },
     "XUS.SI": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-12",
-      "rows": 23
+      "last_date": "2026-11-13",
+      "rows": 24
     },
     "EUS.SI": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-12",
-      "rows": 23
+      "last_date": "2026-11-13",
+      "rows": 24
     },
     "XND.SI": {
       "ok": true,
-      "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-12",
+      "mode": "full-refetch",
+      "last_date": "2026-11-13",
       "rows": 23
     },
     "XWR.SI": {
       "ok": true,
       "mode": "incremental (+1 rows)",
-      "last_date": "2026-11-12",
-      "rows": 23
+      "last_date": "2026-11-13",
+      "rows": 24
     }
   },
   "warnings": [
     "XUS.SI: 29.7% move on 2026-10-13 (check, not removed)",
     "EUS.SI: 29.5% move on 2026-10-13 (check, not removed)",
+    "XND.SI: overlap close mismatch 0.55% -> full refetch",
     "XND.SI: 27.9% move on 2026-10-13 (check, not removed)",
     "XWR.SI: 29.5% move on 2026-10-13 (check, not removed)"
   ],
