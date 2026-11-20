@@ -1,13 +1,13 @@
 {
-  "as_of": "2026-11-18",
+  "as_of": "2026-11-19",
   "start": "2015-12-31",
   "funds": {
     "XUS": {
       "name": "Xtrackers S&P 500 UCITS ETF",
       "proxy": "SPY",
-      "cagr_sgd": 0.13076,
-      "cagr_usd": 0.1405,
-      "vol_ann_sgd": 0.18347,
+      "cagr_sgd": 0.12873,
+      "cagr_usd": 0.13838,
+      "vol_ann_sgd": 0.18353,
       "max_drawdown_sgd": -0.30723,
       "max_drawdown_trough": "2020-03-23",
       "calendar_returns_sgd": {
@@ -21,15 +21,15 @@
         "2023": 0.23759,
         "2024": 0.28459,
         "2025": 0.11066,
-        "2026": 0.08245
+        "2026": 0.06181
       }
     },
     "EUS": {
       "name": "Xtrackers S&P 500 Equal Weight UCITS ETF",
       "proxy": "RSP",
-      "cagr_sgd": 0.10642,
-      "cagr_usd": 0.11595,
-      "vol_ann_sgd": 0.18631,
+      "cagr_sgd": 0.10465,
+      "cagr_usd": 0.11409,
+      "vol_ann_sgd": 0.18635,
       "max_drawdown_sgd": -0.36419,
       "max_drawdown_trough": "2020-03-23",
       "calendar_returns_sgd": {
@@ -43,15 +43,15 @@
         "2023": 0.11451,
         "2024": 0.15946,
         "2025": 0.04817,
-        "2026": 0.1406
+        "2026": 0.12111
       }
     },
     "XND": {
       "name": "Xtrackers Nasdaq 100 UCITS ETF",
       "proxy": "QQQ",
-      "cagr_sgd": 0.17396,
-      "cagr_usd": 0.18407,
-      "vol_ann_sgd": 0.2288,
+      "cagr_sgd": 0.17159,
+      "cagr_usd": 0.1816,
+      "vol_ann_sgd": 0.22886,
       "max_drawdown_sgd": -0.35615,
       "max_drawdown_trough": "2022-12-28",
       "calendar_returns_sgd": {
@@ -65,15 +65,15 @@
         "2023": 0.51962,
         "2024": 0.29218,
         "2025": 0.13984,
-        "2026": 0.08056
+        "2026": 0.05746
       }
     },
     "XWR": {
       "name": "Xtrackers MSCI World UCITS ETF",
       "proxy": "URTH",
-      "cagr_sgd": 0.1098,
-      "cagr_usd": 0.11935,
-      "vol_ann_sgd": 0.1779,
+      "cagr_sgd": 0.10785,
+      "cagr_usd": 0.11732,
+      "vol_ann_sgd": 0.17796,
       "max_drawdown_sgd": -0.30918,
       "max_drawdown_trough": "2020-03-23",
       "calendar_returns_sgd": {
@@ -87,7 +87,7 @@
         "2023": 0.21696,
         "2024": 0.22169,
         "2025": 0.14576,
-        "2026": 0.07565
+        "2026": 0.05552
       }
     }
   }
